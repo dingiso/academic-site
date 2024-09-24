@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Low-Cost Ex-Vivo Record-Replay-Diagnosis for IoT Devices"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-09-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,16 +14,16 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: 
+publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Postmortem program analysis is a daunting task. This is especially true for deeply embedded systems which lack basic facilities to record the context at crash points, not to mention advanced mechanisms such as program tracing that can record the problematic instruction trace ahead of the crash. Worse, without basic hardware features to promptly capture faulty states, the device can execute for days after a memory corruption happens, making fault diagnosis even harder. This paper presents μ RnR, a lightweight ex-vivo record-and-replay architecture for deeply embedded IoT devices, with a primary application on effortless postmortem fault diagnosis. We target a popular IoT architecture in which IoT devices are locally managed by a centralized hub or edge, which further connects to the cloud for remote functions. In these systems, the attack payload carried on external inputs also passes through the IoT hub. Therefore, our system leverages the IoT hub to collect these suspicious external inputs, with which we try to recover the execution trace before the crash. Although edge observable inputs are not sufficient to fully replay previous execution, we found that the rest device inputs including internal hardware signals can be inferred via program analysis techniques. To demonstrate the application of μRnR, we also developed a bug diagnosis system named μARCUS, which uses the recovered execution trace to find the root cause of crashed execution. Our prototype shows promising results in terms of both trace reconstruction and bug diagnosis.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Program Analysis
 
 featured: true
 
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://www.scribbr.co.uk/wp-content/uploads/2023/11/root-cause-analysis-preview.webp)'
   focal_point: ""
   preview_only: false
 
