@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Introduction to Hardware & Software Prediction/Prefetch
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: PLCT Weekly Conference
+event_url: https://www.bilibili.com/video/BV1xD4y1Y7B6
 
-location: Hugo Blox Builder HQ
+location: PLCT Lab, Institute of Software, Chinese Academy of Sciences
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: No. 4, South 4th Street, Zhongguancun, Haidian District
+  city: Beijing
+  region: Peking 
+  postcode: '100190'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An Insightful Introduction, Comparison of Prediction and Prefetch Methods in Hardware.
+abstract: 'In the realm of computer hardware, the efficient management of data and instruction flow is paramount for achieving optimal performance. Two critical methodologies that have been developed to enhance system throughput are prediction and prefetch techniques. This talk aims to provide a comprehensive introduction and comparison of these methods, highlighting their individual strengths, weaknesses, and applications within modern hardware architectures.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-12-01T13:00:00Z'
+date_end: '2022-12-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-12-02T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Slidev**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://www.bilibili.com/video/BV1xD4y1Y7B6'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_video: 'https://www.bilibili.com/video/BV1xD4y1Y7B6'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
