@@ -55,9 +55,9 @@ education:
   - area: MEng Cyber Security
     institution: Huazhong University of Science and Technology
     date_start: 2022-09-01
-    date_end: 2025-06-01
+    date_end: ''
     summary: |
-      GPA: 3.7
+      GPA: 3.7 / 5.0
 
       Courses included:
       - Software Security
@@ -68,35 +68,34 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.86
+      GPA: 3.86 / 5.0
       
       Courses included:
       - Math
       - Operating System
       - Computer Network
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Emulator Researcher
+    company_name: Institute of Software, Chinese Academy of Science
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
+    date_end: 2023-08-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Implementation of RISC-V Crypto extension in QEMU
+      - Investigate vector extension of RISC-V in Gem5
+      - Lead the research of performance of XiangShan RISC-V ip-core in Sparta
+  - position: Operating System Engineer
+    company_name: iSyscore
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-11-01
+    date_end: 2022-02-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Repackage the company's architecture using containers.
+      - Lead the design and implementation of new test architecture
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
