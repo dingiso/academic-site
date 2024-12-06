@@ -64,9 +64,9 @@ education:
       - New Technology Security
       - Reverse Engineering
   - area: BSc Cyber Engineering
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Dalian University of Technology
+    date_start: 2018-09-01
+    date_end: 2022-06-28
     summary: |
       GPA: 3.86 / 5.0
       
@@ -91,10 +91,10 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-11-01
-    date_end: 2022-02-31
+    date_end: 2022-02-14
     summary: |
       Responsibilities include:
-      - Repackage the company's architecture using containers.
+      - Migrated the company's architecture to containers.
       - Lead the design and implementation of new test architecture
 
 # Skills
