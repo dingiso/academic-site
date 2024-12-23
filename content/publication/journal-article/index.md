@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Crash analysis method and device for Internet of Things Firmware."
 authors:
-- admin
-- Robert Ford
+- Wei Zhou
+- Ruibo Lu
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-08-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Chinese Patent CN202410308925.6"
+publication_short: "Chinese Patent"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The present application provides a method and apparatus for firmware crash analysis based on the Internet of Things (IoT), which pertains to the field of computer information processing technology. The method includes, during the operation of IoT devices, recording interaction data and snapshot information with the IoT devices; after the IoT device crashes, loading the firmware of the IoT device, and restoring the firmware's state information at the current snapshot and subsequent states based on the snapshot information; automating the reasoning of hardware feedback and interrupt events based on the restored real-time state information of the firmware, to reconstruct the execution flow of the firmware from the current snapshot to the crash; analyzing the reconstructed execution flow through dynamic and static program analysis to determine the cause of the crash. This application example automates the analysis of the causes of IoT system crashes, which not only greatly simplifies the complexity of system debugging but also significantly reduces the workload of manual debugging, providing strong support for shortening the fault resolution time window and improving system maintainability.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This application offers an automated IoT firmware crash analysis method that simplifies system debugging, reduces manual workload, and enhances maintainability by analyzing execution flows and determining crash causes.
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.patentguru.com/cn/CN117909160A
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**testing.vs.debugging**](https://qa.world/wp-content/uploads/2023/05/testing-vs-debugging.png)'
   focal_point: ""
   preview_only: false
 

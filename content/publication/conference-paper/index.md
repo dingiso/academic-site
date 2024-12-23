@@ -48,13 +48,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/MCUSec/RealworldFirmware'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://www.usenix.org/conference/usenixsecurity24/presentation/nino'
+url_video: 'https://youtu.be/AARhUTGN-1M'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

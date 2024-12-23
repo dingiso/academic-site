@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: 
+    url: https://dingiso.github.io
   - icon: brands/github
     url: https://github.com/dingiso
   - icon: brands/linkedin
@@ -102,15 +102,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C/C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Ghidra
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Rust
         description: ''
         percent: 40
         icon: circle-stack
@@ -118,15 +118,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Boxing
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
         icon: camera
@@ -173,4 +173,6 @@ awards:
 
 ## About Me
 
-Ruibo Lu is a master student of Cyber Security at Huazhong University of Science and Technology. His research interest lies into the intersection of Artificial Intelligence and Program Analysis. Specifically, I aim to develop next-generation code and binary models with fine-grained analysis capabilities to support tasks such as vulnerability detection and function similarity assessment.
+Ruibo Lu is a master student of Cyber Security at Huazhong University of Science and Technology. I am fortunate to be co-advised by [Dr. Wei Zhou](https://weizhou.netlify.app/) and [Dr. Le Guan](https://guanle.org/). My research interest lies into the intersection of Artificial Intelligence and Program Analysis. Specifically, I aim to develop next-generation code and binary models with fine-grained analysis capabilities to support tasks such as vulnerability detection and patch generation.
+
+Access my [blog](https://dingiso.github.io)
