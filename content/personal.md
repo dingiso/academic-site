@@ -11,6 +11,12 @@ Sports are not just a hobby; they are a way of life that keeps me grounded and f
 
 In every sprint, every lift, every dive, I find a piece of myself that I didn't know existed. The sweat, the laughter, the cheers – these are the elements that make life worth living. I am a firm believer that a healthy body fosters a healthy mind, and thus, I dedicate myself to the pursuit of physical excellence and the celebration of life through sports.
 
+## Dancing 
+
+I'm primarily interested in locking and popping. Below is a quick show on the school playground.
+
+{{< youtube nI5VO_-l15c >}}
+
 ## Badminton 
 
 During my master's studies, badminton was my most frequently played sport. I was fortunate enough to win a prize in the annual school badminton competition.
@@ -42,4 +48,6 @@ On weekends, I enjoy cooking delicious dinners with my colleagues. It's a wonder
 
 In my downtime, I make a point of swimming weekly and occasionally engaging in bodybuilding exercises.
 
-![swim](swim.png)
+Below is my crawl video, recorded by my swimming teacher
+
+{{< youtube UK3tkapDhvY >}}

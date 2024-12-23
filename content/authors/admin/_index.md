@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:reaperlu@hust.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
   - icon: 
     url: https://dingiso.github.io
   - icon: brands/github
