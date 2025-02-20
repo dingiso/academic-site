@@ -173,6 +173,6 @@ awards:
 
 ## About Me
 
-Ruibo Lu is a master student of Cyber Security at Huazhong University of Science and Technology. I am fortunate to be co-advised by [Dr. Wei Zhou](https://weizhou.netlify.app/) and [Dr. Le Guan](https://guanle.org/). My research interest lies into the intersection of Artificial Intelligence and Program Analysis. Specifically, I aim to develop next-generation code and binary models with fine-grained analysis capabilities to support tasks such as vulnerability detection and patch generation.
+I am a master student of Cyber Security at Huazhong University of Science and Technology. I am fortunate to be co-advised by [Dr. Wei Zhou](https://weizhou.netlify.app/) and [Dr. Le Guan](https://guanle.org/). My research interest lies into the intersection of Computer Security and Program Analysis. Specifically, I aim to develop next-generation binary analysis techniques to support tasks such as vulnerability detection and patch generation.
 
 Access my [blog](https://dingiso.github.io)
