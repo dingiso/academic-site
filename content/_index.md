@@ -35,7 +35,6 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm pursuing a Ph.D. position about program analysis and computer security.
 
         I apply a range of qualitative and quantitative methods to comprehensively analysis the binary and source codes.
         

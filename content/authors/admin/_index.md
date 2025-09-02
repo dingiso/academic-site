@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HUST
-    url: https://english.hust.edu.cn/
+  - name: Penn State
+    url: https://psu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:reaperlu@hust.edu.cn'
+    url: 'mailto:rjl6246@psu.edu'
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -52,10 +52,13 @@ interests:
   - Artificial Intelligence
 
 education:
+  - area: PhD Informatics
+    institution: Pennsylvania State University
+    data_start: 2025-08-24
   - area: MEng Cyber Security
     institution: Huazhong University of Science and Technology
     date_start: 2022-09-01
-    date_end: ''
+    date_end: 2025-06-30
     summary: |
       GPA: 3.7 / 5.0
 
@@ -107,7 +110,7 @@ skills:
         percent: 80
         icon: code-bracket
       - name: Ghidra
-        description: ''
+        description: Static Binary Analysis Framework
         percent: 100
         icon: chart-bar
       - name: Rust
@@ -173,6 +176,6 @@ awards:
 
 ## About Me
 
-I am a master student of Cyber Security at Huazhong University of Science and Technology. I am fortunate to be co-advised by [Dr. Wei Zhou](https://weizhou.netlify.app/) and [Dr. Le Guan](https://guanle.org/). My research interest lies into the intersection of Computer Security and Program Analysis. Specifically, I aim to develop next-generation binary analysis techniques to support tasks such as vulnerability detection and patch generation.
+I am currently a first-year PhD student of Informatics at Pennsylvania State University. I am fortunate to be advised by [Dr. Hong Hu](https://huhong789.github.io/). My research interest lies into the intersection of Computer Security and Program Analysis. Specifically, I aim to develop next-generation binary analysis techniques to support tasks such as vulnerability detection and patch generation.
 
 Access my [blog](https://dingiso.github.io)
